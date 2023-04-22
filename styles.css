@@ -1,5 +1,5 @@
 .container-fluid {
-  font-size: 25px;
+  font-size: 20px;
   font-family: "Edu NSW ACT Foundation", cursive;
   transition-timing-function: ease-in;
   overflow: hidden;
@@ -103,6 +103,8 @@ section {
   /* background-color: #89375f; */
   background-color: #ffffff;
   text-align: center;
+  margin-top: 0px;
+  padding-top: 0px;
 
   /* color: #ffffff; */
 }
@@ -110,12 +112,12 @@ h1{
   font-weight: bold;
 }
 .projects h2{
-  margin-top: 60px;
-  margin-bottom: 60px;
+  margin-top: 30px;
+  margin-bottom: 30px;
 }
 .projects ul{
-  margin-top: 60px;
-  margin-bottom: 60px;
+  margin-top: 30px;
+  margin-bottom: 30px;
 }
 
 .projects li {
@@ -123,7 +125,7 @@ h1{
 }
 
 .projects h2 {
-  margin: 60px;
+  margin: 20px;
   /* text-decoration: bold; */
   font-weight: bold;
 }
@@ -153,7 +155,8 @@ h1{
 
 #android img {
   border-radius: 20px;
-  height: 420px;
+  height: auto;
+  width: 500px;
   margin-top: 25px;
   margin-bottom: 25px;
 }
