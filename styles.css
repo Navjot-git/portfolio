@@ -1,6 +1,7 @@
 .container-fluid {
   font-size: 25px;
   font-family: "Edu NSW ACT Foundation", cursive;
+  font-family:'Times New Roman', Times, serif;
   transition-timing-function: ease-in;
   overflow: hidden;
 
