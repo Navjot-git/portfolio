@@ -1,5 +1,9 @@
+html{
+  font-size: 80%;
+}
+
 .container-fluid {
-  font-size: 25px;
+  font-size: 1rem;
   font-family: "Edu NSW ACT Foundation", cursive;
   font-family:'Times New Roman', Times, serif;
   transition-timing-function: ease-in;
@@ -10,7 +14,7 @@
 }
 
 #icon{
-  height: 90px;
+  height: 62px;
 }
 
 /* NAVIGATION */
@@ -166,5 +170,5 @@ h1 {
 }
 
 #small-icons img {
-  height: 35px;
+  height: 30px;
 }
